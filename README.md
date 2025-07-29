@@ -96,12 +96,6 @@ npm run dev
 
 ---
 
-## 📬 Submission
-
-Submit your solution as a **URL to your Git repository**.
-
----
-
 ## 📝 Notes
 
 - This app uses the official [Google Calendar API](https://developers.google.com/calendar).
